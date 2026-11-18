@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "mata_kuliah": "dgm",
+        "judul": "jobset",
+        "deadline": "2026-08-11",
+        "prioritas": "Sedang",
+        "selesai": true
+    },
+    {
+        "id": 2,
+        "mata_kuliah": "matdis",
+        "judul": "gatau dah",
+        "deadline": "2026-11-28",
+        "prioritas": "Sedang",
+        "selesai": false
+    }
+]
